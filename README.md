@@ -1,7 +1,7 @@
 # sendgrid-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for SendGrid
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for SendGrid (beta)](https://www.cdata.com/download/download.aspx?sku=BGZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for SendGrid (beta)](https://www.cdata.com/download/download.aspx?sku=BGZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data SendGrid supported by the [CData JDBC Driver for SendGrid](https://www.cdata.com/drivers/sendgrid/jdbc).
 
